@@ -1,0 +1,56 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/kim/DjangoProject/.metadata/.plugins/org.eclipse.core.resources/.projects/myweb/com.python.pydev.analysis/v2_indexcache
+myweb.urls|1522850474000000000|/Users/kim/DjangoProject/myweb/myweb/urls.py
+myweb.__init__|1522849630000000000|/Users/kim/DjangoProject/myweb/myweb/__init__.py
+home.apps|1522849643000000000|/Users/kim/DjangoProject/myweb/home/apps.py
+home.views|1522852052000000000|/Users/kim/DjangoProject/myweb/home/views.py
+home.tests|1522849643000000000|/Users/kim/DjangoProject/myweb/home/tests.py
+home.migrations.__init__|1522849643000000000|/Users/kim/DjangoProject/myweb/home/migrations/__init__.py
+home.__init__|1522849643000000000|/Users/kim/DjangoProject/myweb/home/__init__.py
+home.admin|1522849643000000000|/Users/kim/DjangoProject/myweb/home/admin.py
+home.models|1522849643000000000|/Users/kim/DjangoProject/myweb/home/models.py
+myweb.wsgi|1522849630000000000|/Users/kim/DjangoProject/myweb/myweb/wsgi.py
+myweb.settings|1522850474000000000|/Users/kim/DjangoProject/myweb/myweb/settings.py
+manage|1522849630000000000|/Users/kim/DjangoProject/myweb/manage.py
+-- END DISKCACHE
+-- START DICTIONARY
+11
+7=/Users/kim/DjangoProject/myweb/home/views.py
+10=myweb.urls
+5=/Users/kim/DjangoProject/myweb/home/apps.py
+6=home.apps
+8=home.views
+9=/Users/kim/DjangoProject/myweb/myweb/urls.py
+11=HomeConfig
+4=myweb.wsgi
+1=/Users/kim/DjangoProject/myweb/myweb/settings.py
+2=myweb.settings
+3=/Users/kim/DjangoProject/myweb/myweb/wsgi.py
+-- END DICTIONARY
+-- START TREE 1
+19
+all|1|ALLOWED_HOSTS!1^28#1*19@
+app|1|application!3^16#1*35@
+aut|1|AUTH_PASSWORD_VALIDATORS!1^101#1*19@
+bas|1|BASE_DIR!1^16#1*19@
+dat|1|DATABASES!1^82#1*19@
+deb|1|DEBUG!1^26#1*19@
+hom|1|HomeConfig!5^7#7*49@
+ind|1|index!7^7#5*66@
+ins|1|INSTALLED_APPS!1^41#1*19@
+lan|1|LANGUAGE_CODE!1^107#1*19@
+mid|1|MIDDLEWARE!1^51#1*19@
+roo|1|ROOT_URLCONF!1^53#1*19@
+sec|1|SECRET_KEY!1^23#1*19@
+sta|1|STATIC_URL!1^121#1*19@
+tem|1|TEMPLATES!1^69#1*19@
+tim|1|TIME_ZONE!1^109#1*19@
+url|1|urlpatterns!9^23#1*83@
+use|3|USE_L10N!1^113#1*19@USE_I18N!1^111#1*19@USE_TZ!1^115#1*19@
+wsg|1|WSGI_APPLICATION!1^71#1*19@
+-- END TREE
+-- START TREE 2
+1
+nam|1|name!11&5^8#5*51@
+-- END TREE

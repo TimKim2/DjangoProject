@@ -1,0 +1,13 @@
+MODULES_MANAGER_V2
+home.__init__|/Users/kim/DjangoProject/myweb/home/__init__.py
+home.admin|/Users/kim/DjangoProject/myweb/home/admin.py
+home.apps|/Users/kim/DjangoProject/myweb/home/apps.py
+home.migrations.__init__|/Users/kim/DjangoProject/myweb/home/migrations/__init__.py
+home.models|/Users/kim/DjangoProject/myweb/home/models.py
+home.tests|/Users/kim/DjangoProject/myweb/home/tests.py
+home.views|/Users/kim/DjangoProject/myweb/home/views.py
+manage|/Users/kim/DjangoProject/myweb/manage.py
+myweb.__init__|/Users/kim/DjangoProject/myweb/myweb/__init__.py
+myweb.settings|/Users/kim/DjangoProject/myweb/myweb/settings.py
+myweb.urls|/Users/kim/DjangoProject/myweb/myweb/urls.py
+myweb.wsgi|/Users/kim/DjangoProject/myweb/myweb/wsgi.py
